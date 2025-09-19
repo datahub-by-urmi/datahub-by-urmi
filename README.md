@@ -1,6 +1,7 @@
 ### About Me
 👋 Hey, there!
 I’m Urmi Soni.
+🎯 Drexel MS Business Analytics Graduate | Data Engineering • SQL • Python • Cloud • Tableau | Turning Data into Impact
 
 I started my journey as a curious problem-solver, diving into numbers and patterns, which led me to pursue an MS in Business Analytics at Drexel University. Along the way, I discovered my passion for data engineering, designing pipelines and automating workflows that power business decisions.
 
