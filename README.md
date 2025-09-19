@@ -1,20 +1,13 @@
 ### About Me
-👋 Hey, there!
-I’m Urmi Soni.
-🎯 Drexel MS Business Analytics Graduate | Data Engineering • SQL • Python • Cloud • Tableau | Turning Data into Impact
 
-I started my journey as a curious problem-solver, diving into numbers and patterns, which led me to pursue an MS in Business Analytics at Drexel University. Along the way, I discovered my passion for data engineering, designing pipelines and automating workflows that power business decisions.
+I'm Urmi Soni, a recent Drexel MS Business Analytics graduate with a passion for transforming data into business value. My expertise lies in data engineering, where I design and automate the workflows that power data-driven decisions.
 
-My superpowers 💪 are data wrangling, visualization, cloud platforms, and connecting the dots to solve complex problems.
+My core skills include SQL, Python, and Tableau, along with hands-on experience building ETL pipelines and creating interactive dashboards on cloud platforms. I combine a strong foundation in analytics with a problem-solving mindset and a drive to learn.
 
-📊 Started with curiosity about numbers and business problems.
-⚡ Realized the power of analytics to drive decision-making.
-🧾 Learned SQL, Python, Tableau, and cloud plateforms through projects and coursework.
-💥 Built hands-on experience with ETL pipelines, dashboards, and cloud workflows.
-🤓 I bring problem-solving, persistence, and a love for learning to every project.
-🔎 Currently exploring ways to turn data into actionable insights that create real business value.
-   open to new role
-   
+I believe insights are most powerful when they are communicated effectively. I specialize in data storytelling, turning complex data into compelling narratives that resonate with people and drive real change. My GitHub is a creative playground where I let my data speak for itself. 📊✨
+
+I'm open to new opportunities and excited to explore how I can create value with data.
+
 🌟 Fun Facts
 
 I enjoy blending analytics with storytelling because insights only matter when they resonate. People believe what they can see in your work — and here on my GitHub, I let my data speak for itself.
@@ -29,7 +22,5 @@ A Netflix-inspired interface to showcase my analytics projects with interactive 
 Feel free to connect and say hi!
 
 📫 Reach me at: urmi.soni.data@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/urmi-soni
-
-
-
