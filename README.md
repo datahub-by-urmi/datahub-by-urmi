@@ -1,16 +1,25 @@
-## Hi there 👋
+### About Me
+👋 Hey, there!
+I’m Urmi Soni.
 
-<!--
-**datahub-by-urmi/datahub-by-urmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I started my journey as a curious problem-solver, diving into numbers and patterns, which led me to pursue an MS in Business Analytics at Drexel University. Along the way, I discovered my passion for data engineering, designing pipelines and automating workflows that power business decisions.
+
+My superpowers 💪 are data wrangling, visualization, cloud platforms, and connecting the dots to solve complex problems.
+
+📊 Started with curiosity about numbers and business problems.
+⚡ Realized the power of analytics to drive decision-making.
+🧾 Learned SQL, Python, Tableau, and cloud plateforms through projects and coursework.
+💥 Built hands-on experience with ETL pipelines, dashboards, and cloud workflows.
+🤓 I bring problem-solving, persistence, and a love for learning to every project.
+🔎 Currently exploring ways to turn data into actionable insights that create real business value.
+   open to new role
+
+
+
+
+
+Feel free to connect and say hi!
+
+
