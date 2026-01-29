@@ -10,7 +10,7 @@ I'm open to new opportunities and excited to explore how I can create value with
 
 🌟 Fun Facts
 
-I enjoy blending analytics with storytelling because insights only matter when they resonate. People believe what they can see in your work — and here on my GitHub, I let my data speak for itself.
+I enjoy blending analytics with storytelling because insights only matter when they resonate. People believe what they can see in your work — and here on my GitHub, I let my work demonstrate the impact of data.
 
 GitHub is more than a code repository to me — it’s a creative data playground, a place where I experiment, share ideas, and demonstrate the real-world impact of analytics.
 
