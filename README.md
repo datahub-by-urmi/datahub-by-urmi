@@ -1,4 +1,4 @@
-### About Me
+# About Me
 
 I'm Urmi Soni, a recent Drexel MS Business Analytics graduate with a passion for transforming data into business value. My expertise lies in data analytics engineering, where I design and automate the workflows that power data-driven decisions.
 
