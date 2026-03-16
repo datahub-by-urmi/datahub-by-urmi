@@ -1,25 +1,22 @@
-# About Me
+## About Me
 
-I'm Urmi Soni, a recent Drexel MS Business Analytics graduate with a passion for transforming data into business value. My expertise lies in data analytics engineering, where I design and automate the workflows that power data-driven decisions.
+I'm Urmi Soni, an MS Business Analytics graduate from Drexel University with a passion for transforming data into business value.My work focuses on analytics engineering, where I design and automate data workflows that support data-driven decision making.
 
-My core skills include SQL, Python, and Tableau, along with hands-on experience building ETL pipelines and creating interactive dashboards on cloud platforms. I combine a strong foundation in analytics with a problem-solving mindset and a drive to learn.
+My core skills include SQL, Python, and Tableau, along with hands-on experience building ETL pipelines, designing analytical data models, and developing interactive dashboards on cloud platforms. I enjoy working across the full data lifecycle — from raw data ingestion and transformation to delivering insights through analytics and visualization.
 
-I believe insights are most powerful when they are communicated effectively. I specialize in data storytelling, turning complex data into compelling narratives that resonate with people and drive real change. My GitHub is a creative playground where I let my data speak for itself. 📊✨
+Through my projects, I focus on building structured data systems that make complex datasets easier to analyze and understand. I’m particularly interested in how well-designed data models and pipelines can unlock deeper insights for businesses.
 
-I'm open to new opportunities and excited to explore how I can create value with data.
+I believe insights are most powerful when they are communicated clearly. Data storytelling plays an important role in my work — transforming complex data into meaningful narratives that help people make better decisions.
+
+My GitHub serves as a portfolio of my work, where I showcase data engineering pipelines, analytics workflows, and data visualization projects.
 
 🌟 Fun Facts
 
-I enjoy blending analytics with storytelling because insights only matter when they resonate. People believe what they can see in your work — and here on my GitHub, I let my work demonstrate the impact of data.
+I enjoy blending analytics with storytelling because insights only matter when they resonate. People believe what they can see in your work — and here on my GitHub, I let my projects demonstrate the impact of data.
 
-GitHub is more than a code repository to me — it’s a creative data playground, a place where I experiment, share ideas, and demonstrate the real-world impact of analytics.
+To me, GitHub is more than a code repository — it’s a creative data playground where I experiment with new ideas, build data systems, and document my learning journey.
 
-📂 Featured Projects (Coming soon)
-
-Gitflix | Portfolio + Datahub
-A Netflix-inspired interface to showcase my analytics projects with interactive visualizations instead of movies. Explore dashboards, dive into datasets, and see how I transform complex data into actionable insights.
-
-Feel free to connect and say hi!
+🌟 Feel free to connect and say hi!
 
 📫 Reach me at: urmi.soni.data@gmail.com
 
